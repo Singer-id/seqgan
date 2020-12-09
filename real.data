@@ -1,0 +1,1000 @@
+SELECT notes WHERE current slogan EQL south australia <END>
+SELECT current series WHERE notes EQL new series began in june 2011 <END>
+SELECT format WHERE state/territory EQL south australia <END>
+SELECT text/background colour WHERE state/territory EQL australian capital territory <END>
+SELECT count ( fleet series ( quantity ) ) WHERE fuel propulsion EQL cng <END>
+SELECT fuel propulsion WHERE fleet series ( quantity ) EQL 310-329 ( 20 ) <END>
+SELECT manufacturer WHERE order year EQL 1998 <END>
+SELECT count ( manufacturer ) WHERE model EQL ge40lfr <END>
+SELECT count ( order year ) WHERE fleet series ( quantity ) EQL 468-473 ( 6 ) <END>
+SELECT powertrain ( engine/transmission ) WHERE order year EQL 2000 <END>
+SELECT description WHERE aircraft EQL ch-47d chinook <END>
+SELECT max gross weight WHERE aircraft EQL robinson r-22 <END>
+SELECT school/club team WHERE no . EQL 6 <END>
+SELECT school/club team WHERE years in toronto EQL 2012-present <END>
+SELECT school/club team WHERE years in toronto EQL 2010-2012 <END>
+SELECT position WHERE school/club team EQL baylor <END>
+SELECT player WHERE years in toronto EQL 1995-96 <END>
+SELECT no . WHERE player EQL patrick o'bryant <END>
+SELECT school/club team WHERE player EQL patrick o'bryant <END>
+SELECT count ( no . ) WHERE school/club team EQL fordham <END>
+SELECT school/club team WHERE years in toronto EQL 2001-02 <END>
+SELECT school/club team WHERE years in toronto EQL 2004-05 <END>
+SELECT position WHERE player EQL loren woods <END>
+SELECT min ( no . ) WHERE years in toronto EQL 1998-2001 <END>
+SELECT nationality WHERE school/club team EQL georgetown <END>
+SELECT school/club team WHERE player EQL herb williams <END>
+SELECT years in toronto WHERE school/club team EQL hawaii <END>
+SELECT years in toronto WHERE player EQL dell curry <END>
+SELECT no . WHERE school/club team EQL boise state <END>
+SELECT nationality WHERE player EQL dell curry <END>
+SELECT player WHERE school/club team EQL georgia <END>
+SELECT school/club team WHERE player EQL rudy gay <END>
+SELECT nationality WHERE years in toronto EQL 1997-98 <END>
+SELECT position WHERE school/club team EQL connecticut <END>
+SELECT years in toronto WHERE player EQL marcus banks <END>
+SELECT position WHERE years in toronto EQL 2004 <END>
+SELECT nationality WHERE player EQL muggsy bogues <END>
+SELECT years in toronto WHERE player EQL lonny baxter <END>
+SELECT count ( player ) WHERE school/club team EQL la salle <END>
+SELECT best finish WHERE scoring rank EQL 117 <END>
+SELECT 2nd WHERE best finish EQL t69 <END>
+SELECT count ( wins ) WHERE money list rank EQL 183 <END>
+SELECT scoring average WHERE money list rank EQL n/a <END>
+SELECT max ( 2nd ) <END>
+SELECT min ( season ) WHERE team EQL metrostars <END>
+SELECT college WHERE team EQL columbus crew <END>
+SELECT count ( team ) WHERE draft pick # EQL 1 <END>
+SELECT position WHERE draft pick # EQL 10 <END>
+SELECT years played WHERE singles w-l EQL 3 – 2 <END>
+SELECT doubles w-l WHERE player EQL seol jae-min ( none ) <END>
+SELECT singles w-l WHERE player EQL kim doo-hwan <END>
+SELECT count ( singles w-l ) WHERE doubles w-l EQL 0 – 0 AND total w-l EQL 3 – 1 <END>
+SELECT doubles w-l WHERE years played EQL 1 ( 1968 ) <END>
+SELECT years played WHERE player EQL im chung-yang <END>
+SELECT name WHERE crest length ( meters ) EQL 375 <END>
+SELECT min ( year of construction ) WHERE name EQL spitallamm <END>
+SELECT canton WHERE name EQL grande dixence <END>
+SELECT name WHERE name of the lake EQL lago di luzzone <END>
+SELECT guardian mātṛkā WHERE consort EQL svāhā <END>
+SELECT direction WHERE mantra EQL oṃ yaṃ vāyuve namaḥ <END>
+SELECT weapon WHERE consort EQL śacī <END>
+SELECT direction WHERE weapon EQL khaḍga ( sword ) <END>
+SELECT weapon WHERE direction EQL east <END>
+SELECT direction WHERE graha ( planet ) EQL bṛhaspati ( jupiter ) <END>
+SELECT max ( chapters ) WHERE classification EQL fraternity AND headquarters EQL austin , texas <END>
+SELECT member WHERE classification EQL sorority <END>
+SELECT member WHERE chapters EQL 12 <END>
+SELECT headquarters WHERE member EQL alpha nu omega <END>
+SELECT min ( relapsing fever ) WHERE malaria EQL 3000 <END>
+SELECT typhoid fever WHERE year EQL 1934 <END>
+SELECT typhus WHERE smallpox EQL 4 <END>
+SELECT max ( smallpox ) WHERE typhoid fever EQL 293 <END>
+SELECT typhoid fever WHERE year EQL 1929 <END>
+SELECT count ( founded ) WHERE location EQL bloomington , in <END>
+SELECT count ( location ) WHERE affiliation EQL private/presbyterian <END>
+SELECT min ( founded ) WHERE school EQL lindenwood university <END>
+SELECT count ( primary conference ) WHERE location EQL ames , ia <END>
+SELECT capital ( endonym ) WHERE capital ( exonym ) EQL douglas <END>
+SELECT count ( country ( endonym ) ) WHERE capital ( endonym ) EQL jakarta <END>
+SELECT country ( exonym ) WHERE official or native language ( s ) ( alphabet/script ) EQL icelandic <END>
+SELECT country ( endonym ) WHERE official or native language ( s ) ( alphabet/script ) EQL irish english <END>
+SELECT country ( exonym ) WHERE country ( endonym ) EQL isle of man ellan vannin <END>
+SELECT count ( network ) WHERE season premiere EQL september 11 , 2000 <END>
+SELECT ranking WHERE season finale EQL may 8 , 2006 <END>
+SELECT min ( population canada 2011 census ) WHERE seat of rcm EQL cowansville <END>
+SELECT land area WHERE seat of rcm EQL granby <END>
+SELECT population WHERE county EQL county mayo AND english name EQL carrowteige <END>
+SELECT irish name WHERE irish speakers EQL 62 % <END>
+SELECT population WHERE irish name EQL leitir mealláin <END>
+SELECT county WHERE irish name EQL carna <END>
+SELECT count ( english name ) WHERE irish speakers EQL 53 % AND county EQL county kerry <END>
+SELECT population WHERE english name EQL spiddal <END>
+SELECT min ( chinese ) WHERE filipino EQL 1474707 <END>
+SELECT count ( filipino ) WHERE indian EQL 30947 <END>
+SELECT max ( indian ) <END>
+SELECT australian role WHERE un operation name EQL unama <END>
+SELECT un operation title WHERE un operation name EQL uncok <END>
+SELECT count ( number of australians involved ) WHERE un operation title EQL un commission on korea <END>
+SELECT dates of australian involvement WHERE number of australians involved EQL 65 <END>
+SELECT tv season WHERE viewers ( millions ) EQL 10.73 <END>
+SELECT tv season WHERE rank EQL 39 <END>
+SELECT count ( season premiere ) WHERE viewers ( millions ) EQL 10.17 <END>
+SELECT tv season WHERE season EQL 12 <END>
+SELECT avg . finish WHERE year EQL 2012 <END>
+SELECT min ( wins ) WHERE year EQL 1983 <END>
+SELECT count ( top 10 ) WHERE avg . start EQL 29.4 <END>
+SELECT max ( poles ) WHERE avg . finish EQL 19.1 <END>
+SELECT min ( starts ) WHERE team ( s ) EQL hendrick motorsports <END>
+SELECT player WHERE position EQL centre AND nhl team EQL florida panthers <END>
+SELECT player WHERE nhl team EQL san jose sharks AND nationality EQL united states <END>
+SELECT position WHERE player EQL mark polak <END>
+SELECT nhl team WHERE position EQL centre AND pick LT 243.0 <END>
+SELECT college/junior/club team WHERE nhl team EQL st. louis blues <END>
+SELECT nhl team WHERE college/junior/club team EQL tps ( finland ) <END>
+SELECT college/junior/club team WHERE player EQL doug nolan <END>
+SELECT college/junior/club team WHERE player EQL per gustafsson <END>
+SELECT nationality WHERE player EQL shayne wright <END>
+SELECT southern england WHERE northern ireland EQL 3 <END>
+SELECT min ( scotland ) <END>
+SELECT count ( scotland ) WHERE total EQL 35 <END>
+SELECT northern ireland WHERE total EQL 35 <END>
+SELECT min ( wales ) WHERE northern england EQL 6 <END>
+SELECT team ( s ) WHERE top 5 EQL 9 AND wins EQL 1 <END>
+SELECT college/junior/club team WHERE player EQL vadim sharifijanov <END>
+SELECT position WHERE nhl team EQL hartford whalers <END>
+SELECT min ( pick ) WHERE player EQL brett lindros <END>
+SELECT position WHERE college/junior/club team EQL molot perm ( russia ) <END>
+SELECT nationality WHERE nhl team EQL new york islanders <END>
+SELECT vacator WHERE district EQL louisiana 1st <END>
+SELECT notation WHERE crystal structure EQL tetragonal AND formula EQL bi 2 sr 2 cacu 2 o 8 <END>
+SELECT no . of cu-o planes in unit cell WHERE formula EQL tl 2 ba 2 cuo 6 <END>
+SELECT crystal structure WHERE formula EQL yba 2 cu 3 o 7 <END>
+SELECT count ( t c ( k ) ) WHERE notation EQL tl-2212 <END>
+SELECT count ( 2010 est. ) WHERE city EQL cremona <END>
+SELECT min ( 2001 census ) WHERE region EQL abruzzo AND 1981 census GT 51092.0 <END>
+SELECT max ( 1991 census ) WHERE city EQL carpi <END>
+SELECT count ( 2001 census ) WHERE # EQL 13 <END>
+SELECT 1981 census WHERE city EQL livorno <END>
+SELECT nhl team WHERE player EQL mike loach <END>
+SELECT nhl team WHERE player EQL peter strom <END>
+SELECT college/junior/club team WHERE player EQL keith mccambridge <END>
+SELECT count ( nationality ) WHERE pick EQL 193 <END>
+SELECT successor WHERE date of successors formal installation EQL november 8 , 1978 <END>
+SELECT count ( tonioli ) WHERE goodman EQL 10 <END>
+SELECT goodman WHERE total EQL 31 AND horwood EQL 7 AND result EQL safe <END>
+SELECT dixon WHERE dance/song EQL samba / young hearts run free AND result EQL second place <END>
+SELECT count ( goodman ) WHERE result EQL second place AND dance/song EQL samba / young hearts run free <END>
+SELECT year built WHERE no . built EQL 7 <END>
+SELECT we two WHERE case/suffix EQL loc . <END>
+SELECT them two ( the two ) WHERE we two EQL ngalbelpa <END>
+SELECT them two ( the two ) WHERE you and i EQL ngœbalngu <END>
+SELECT who-two WHERE you and i EQL ngœban <END>
+SELECT we two WHERE you two EQL ngipen <END>
+SELECT who-two WHERE you two EQL ngipelngu <END>
+SELECT points WHERE driver EQL mark martin <END>
+SELECT points WHERE driver EQL rusty wallace <END>
+SELECT count ( position ) WHERE driver EQL robby gordon <END>
+SELECT max ( position ) WHERE winnings EQL $ 50,000 <END>
+SELECT actors name WHERE film name EQL anastasiya slutskaya <END>
+SELECT nomination WHERE film name EQL falling up <END>
+SELECT actors name WHERE film name EQL chopin : desire for love AND nomination EQL best actress in a leading role <END>
+SELECT actors name WHERE film name EQL chopin : desire for love AND nomination EQL best actress in a leading role <END>
+SELECT film name WHERE actors name EQL alla sergiyko <END>
+SELECT nomination WHERE film name EQL 27 stolen kisses <END>
+SELECT actors name WHERE nomination EQL best actor in a supporting role AND country EQL serbia <END>
+SELECT country WHERE actors name EQL vsevolod shilovskiy <END>
+SELECT nomination WHERE film name EQL totalitarian romance <END>
+SELECT nomination WHERE director EQL srdjan dragojevic <END>
+SELECT actors name WHERE country EQL ukraine <END>
+SELECT film name WHERE director EQL vadim ilyenko <END>
+SELECT actors name WHERE director EQL vadim ilyenko <END>
+SELECT actors name WHERE film name EQL fuchzhou AND nomination EQL best non-professional actor <END>
+SELECT film name WHERE director EQL michaylo ilyenko AND nomination EQL best actor in a supporting role <END>
+SELECT actors name WHERE nomination EQL best debut <END>
+SELECT count ( nomination ) WHERE actors name EQL natalia raskokoha <END>
+SELECT max ( total goals ) <END>
+SELECT min ( fa cup goals ) WHERE fa cup apps EQL 9 <END>
+SELECT min ( total goals ) <END>
+SELECT circuit WHERE fastest lap EQL hideki mutoh <END>
+SELECT min ( production code ) WHERE title EQL " foreign exchange problem / turn about " <END>
+SELECT episode # WHERE title EQL " the yindianapolis 500 / personality problem " <END>
+SELECT episode # WHERE production code EQL 227 <END>
+SELECT directed by WHERE written by EQL sib ventress / aydrea ten bosch <END>
+SELECT production code WHERE title EQL " skirting the issue / moon over my yinnie " <END>
+SELECT max ( total goals ) <END>
+SELECT count ( temp ( ° c ) ) WHERE adhesive type EQL acryl <END>
+SELECT count ( opponents ) WHERE partner EQL jim pugh <END>
+SELECT score WHERE partner EQL jim pugh <END>
+SELECT count ( surface ) WHERE score EQL 3 – 6 , 7 – 6 ( 5 ) , 6 – 3 <END>
+SELECT score WHERE partner EQL jim pugh <END>
+SELECT year WHERE championship EQL wimbledon ( 2 ) <END>
+SELECT score WHERE opponents EQL gretchen magers kelly jones <END>
+SELECT count ( date of birth ) WHERE representative EQL earl hanley beshlin <END>
+SELECT party WHERE date of birth EQL november 10 , 1880 <END>
+SELECT representative WHERE date of birth EQL january 31 , 1866 <END>
+SELECT singles w – l WHERE player EQL laurynas grigelis <END>
+SELECT current singles ranking WHERE player EQL mantas bugailiškis <END>
+SELECT count ( 1999 broadway ) WHERE character EQL mrs. darling <END>
+SELECT 1990 broadway WHERE character EQL peter pan <END>
+SELECT 1991 broadway WHERE 1999 broadway EQL barbara mcculloh <END>
+SELECT 1990 broadway WHERE 1955 broadcast EQL tom halloran <END>
+SELECT character WHERE 1998 broadway EQL drake english <END>
+SELECT broadcast date WHERE bbc one total viewing GT 11616996.3382 <END>
+SELECT count ( year ) WHERE bbc one rank EQL 20th <END>
+SELECT min ( year ) WHERE bbc two total viewing EQL 7,530,000 <END>
+SELECT count ( ↓ function / genus → ) WHERE escherichia EQL espd <END>
+SELECT salmonella WHERE escherichia EQL espd <END>
+SELECT ↓ function / genus → WHERE shigella EQL spa32 <END>
+SELECT salmonella WHERE shigella EQL ipgc <END>
+SELECT salmonella WHERE escherichia EQL sepb ( escn ) <END>
+SELECT shigella WHERE yersinia EQL yscp <END>
+SELECT count ( original title ) WHERE film title used in nomination EQL marriage italian-style <END>
+SELECT year ( ceremony ) WHERE original title EQL la leggenda del santo bevitore <END>
+SELECT camp WHERE estimated deaths EQL 600,000 <END>
+SELECT operational WHERE camp EQL sajmište <END>
+SELECT estimated deaths WHERE operational EQL 17 march 1942 – end of june 1943 <END>
+SELECT current country of location WHERE operational EQL summer of 1941 to 28 june 1944 <END>
+SELECT occupied territory WHERE estimated deaths EQL 600,000 <END>
+SELECT occupied territory WHERE operational EQL may 1940 – january 1945 <END>
+SELECT overall WHERE college EQL traded to the cleveland browns <END>
+SELECT round WHERE overall EQL 240 <END>
+SELECT min ( overall ) WHERE college EQL youngstown state <END>
+SELECT position WHERE overall EQL 255 <END>
+SELECT player name WHERE round EQL 17 <END>
+SELECT max ( attendance ) WHERE record EQL 7-3 <END>
+SELECT opponent WHERE record EQL 9-4 <END>
+SELECT record WHERE game EQL 8 <END>
+SELECT max ( round ) WHERE player name EQL steve stonebreaker <END>
+SELECT min ( choice ) <END>
+SELECT choice WHERE player name EQL bill hill <END>
+SELECT player name WHERE position EQL quarterback <END>
+SELECT college WHERE player name EQL keith hartwig <END>
+SELECT player name WHERE position EQL linebacker AND college EQL illinois <END>
+SELECT max ( round ) WHERE overall EQL 83 <END>
+SELECT round WHERE player name EQL tommy kramer <END>
+SELECT overall WHERE college EQL rice <END>
+SELECT min ( round ) WHERE position EQL defensive back <END>
+SELECT min ( overall ) WHERE player name EQL bruce cerone <END>
+SELECT player name WHERE college EQL emporia state <END>
+SELECT max ( choice ) <END>
+SELECT college WHERE player name EQL bill cappleman <END>
+SELECT bullet tip color WHERE headstamp id EQL h2 <END>
+SELECT other features WHERE functional type EQL light ball <END>
+SELECT count ( primer annulus color ) WHERE bullet tip color EQL white <END>
+SELECT count ( bullet tip color ) WHERE other features EQL blue band on case base <END>
+SELECT min ( touchdowns ) WHERE completion % EQL 56.0 <END>
+SELECT completions WHERE games started EQL 12 <END>
+SELECT count ( yards ) WHERE attempts EQL 348 <END>
+SELECT count ( london ) WHERE us tour EQL babs rubenstein <END>
+SELECT toronto / broadway WHERE uk tour EQL n/a <END>
+SELECT count ( london ) WHERE character EQL frank <END>
+SELECT class aaa WHERE school year EQL 2000-01 <END>
+SELECT class aaa WHERE class a EQL ( tie ) apple springs/texline <END>
+SELECT class aaaaa WHERE school year EQL 1995-96 <END>
+SELECT class aaa WHERE class aaaaa EQL brownsville pace <END>
+SELECT count ( class aa ) WHERE class aaa EQL white oak <END>
+SELECT count ( team record ) WHERE date EQL friday , may 25 <END>
+SELECT count ( opponent ) WHERE date EQL saturday , june 9 <END>
+SELECT min ( week ) WHERE game site EQL commerzbank-arena <END>
+SELECT original air date WHERE setting EQL 1544 <END>
+SELECT count ( setting ) WHERE no . in series EQL 29 <END>
+SELECT written by WHERE setting EQL winter 1541/february 13 , 1542 <END>
+SELECT no . in season WHERE title EQL " the northern uprising " <END>
+SELECT track title WHERE duration EQL 5:30 <END>
+SELECT album name WHERE track title EQL sweetness 甜甜的 ( tián tián de ) <END>
+SELECT duration WHERE major instrument ( s ) EQL piano AND date EQL 2004-02-03 <END>
+SELECT count ( lyricist ) WHERE lyrics theme/style EQL romance AND duration EQL 3:50 <END>
+SELECT major instrument ( s ) WHERE duration EQL 4:32 <END>
+SELECT count ( music genre/style ) WHERE lyrics theme/style EQL detective story <END>
+SELECT playoffs WHERE league EQL usl pro select league <END>
+SELECT count ( division ) WHERE open cup EQL 1st round <END>
+SELECT team WHERE series EQL formula renault 2.0 nec <END>
+SELECT count ( poles ) WHERE team EQL arden international <END>
+SELECT count ( wins ) WHERE series EQL gp2 series AND team EQL racing engineering <END>
+SELECT count ( podiums ) WHERE season EQL 2010 AND series EQL campionato italiano superstars <END>
+SELECT podiums WHERE points EQL 144 <END>
+SELECT count ( writer ) WHERE us air date EQL september 25 , 1993 <END>
+SELECT count ( villains ) WHERE no . EQL 25 <END>
+SELECT max ( year ) WHERE regular season EQL 4th , northwest <END>
+SELECT count ( playoffs ) WHERE regular season EQL 6th , southwest <END>
+SELECT max ( division ) <END>
+SELECT league WHERE regular season EQL 2nd , northwest <END>
+SELECT regular season WHERE year EQL 2011 <END>
+SELECT count ( title ) WHERE # EQL 11 <END>
+SELECT count ( no . ) WHERE villains EQL mrs. briar <END>
+SELECT count ( no . ) WHERE # EQL 8 <END>
+SELECT count ( # ) WHERE title EQL " the tale of the room for rent " <END>
+SELECT title WHERE storyteller EQL kiki AND director EQL will dixon <END>
+SELECT storyteller WHERE title EQL " the tale of the jagged sign " <END>
+SELECT writer WHERE # EQL 3 <END>
+SELECT villains WHERE title EQL " the tale of the forever game " <END>
+SELECT count ( villains ) WHERE title EQL " the tale of the virtual pets " <END>
+SELECT villains WHERE storyteller EQL megan AND director EQL lorette leblanc <END>
+SELECT max ( # ) WHERE writer EQL allison lea bingeman <END>
+SELECT species WHERE petal width EQL 2.0 AND petal length EQL 4.9 <END>
+SELECT sepal width WHERE species EQL i.virginica AND petal length EQL 5.1 <END>
+SELECT count ( species ) WHERE sepal width EQL 3.4 AND sepal length EQL 5.4 <END>
+SELECT sepal length WHERE sepal width EQL 2.8 AND petal length EQL 5.1 <END>
+SELECT sepal width WHERE sepal length EQL 6.5 AND petal width EQL 2.2 <END>
+SELECT sepal length WHERE sepal width EQL 2.9 AND petal width EQL 1.3 <END>
+SELECT count ( director ) WHERE # EQL 1 <END>
+SELECT director WHERE writer EQL scott peters <END>
+SELECT villains WHERE # EQL 7 <END>
+SELECT count ( writer ) WHERE # EQL 1 <END>
+SELECT us air date WHERE writer EQL jim morris <END>
+SELECT fastest lap WHERE name EQL datsun twin 200 <END>
+SELECT fastest lap WHERE name EQL datsun twin 200 <END>
+SELECT report WHERE name EQL true value 500 <END>
+SELECT fastest lap WHERE winning driver EQL johnny rutherford AND pole position EQL al unser <END>
+SELECT count ( report ) WHERE pole position EQL al unser AND winning team EQL penske racing <END>
+SELECT country WHERE year current scouting organization joined wosm EQL 1930 AND year member organization was founded EQL 1926 <END>
+SELECT admits boys/girls WHERE country EQL venezuela <END>
+SELECT name of member organization WHERE year member organization was founded EQL 1972 AND year current scouting organization joined wosm EQL 1977 <END>
+SELECT admits boys/girls WHERE name of member organization EQL the scout association of hong kong <END>
+SELECT admits boys/girls WHERE year member organization was founded EQL 1912 AND name of member organization EQL the ghana scout association <END>
+SELECT max ( model ) WHERE introduction EQL may 1999 <END>
+SELECT print resolution ( dpi ) resolution is given in dots per inch ( dpi ) WHERE introduction EQL december 2002 <END>
+SELECT maximum memory WHERE discontinued EQL november 2001 <END>
+SELECT main presenters WHERE local title EQL la granja <END>
+SELECT main presenters WHERE region/country EQL bulgaria <END>
+SELECT count ( winners ) WHERE local title EQL farma <END>
+SELECT max ( cup goals ) WHERE season EQL 1911-12 <END>
+SELECT league apps WHERE season EQL 1923-24 <END>
+SELECT team WHERE season EQL 1911-12 <END>
+SELECT min ( attendance ) WHERE score EQL 10.16 ( 76 ) – 9.22 ( 76 ) <END>
+SELECT premier WHERE season EQL 1970 <END>
+SELECT runner-up WHERE premier EQL richmond <END>
+SELECT min ( attendance ) WHERE score EQL 8.16 ( 64 ) – 8.12 ( 60 ) <END>
+SELECT count ( milepost ) WHERE street names EQL anne street <END>
+SELECT street names WHERE milepost EQL 12.2 <END>
+SELECT location WHERE roads intersected EQL route 24 <END>
+SELECT location WHERE milepost EQL 12.8 <END>
+SELECT min ( 2001-02 ) WHERE commodity EQL wool <END>
+SELECT operational owner ( s ) WHERE build date EQL april 1892 <END>
+SELECT disposition WHERE operational owner ( s ) EQL colorado and southern railway # 9 <END>
+SELECT wheel arrangement ( whyte notation ) WHERE disposition EQL riverdale , georgia <END>
+SELECT build date WHERE serial number EQL 2053 <END>
+SELECT count ( wheel arrangement ( whyte notation ) ) WHERE operational owner ( s ) EQL texas and new orleans railroad # 319 <END>
+SELECT institution WHERE men ’s nickname EQL blazers <END>
+SELECT joined WHERE women ’s nickname EQL wolfpack <END>
+SELECT left WHERE women ’s nickname EQL lady pilots <END>
+SELECT women ’s nickname WHERE enrollment EQL 1500 AND location EQL mobile , alabama <END>
+SELECT current conference WHERE location EQL jackson , mississippi <END>
+SELECT men ’s nickname WHERE women ’s nickname EQL lady wildcats <END>
+SELECT mens nickname WHERE location EQL jacksonville , florida <END>
+SELECT max ( enrollment ) WHERE founded EQL 1866 AND type EQL private / ( african methodist ) <END>
+SELECT min ( founded ) WHERE location EQL nashville , tennessee <END>
+SELECT joined WHERE institution EQL tougaloo college <END>
+SELECT date of vacancy WHERE date of appointment EQL 28 november 2007 AND replaced by EQL alex mcleish <END>
+SELECT date of appointment WHERE date of vacancy EQL 21 december 2007 <END>
+SELECT replaced by WHERE team EQL wigan athletic <END>
+SELECT date of vacancy WHERE team EQL manchester city AND replaced by EQL mark hughes <END>
+SELECT date of appointment WHERE replaced by EQL roy hodgson <END>
+SELECT replaced by WHERE position in table EQL pre-season <END>
+SELECT count ( play-off ) WHERE points EQL 813.5 <END>
+SELECT play-off WHERE points EQL 860.5 <END>
+SELECT score WHERE record EQL 6-9 <END>
+SELECT type WHERE institution EQL point park university <END>
+SELECT max ( founded ) WHERE type EQL private AND location EQL wilmore , kentucky <END>
+SELECT type WHERE institution EQL point park university <END>
+SELECT count ( founded ) WHERE institution EQL carlow university 1 <END>
+SELECT written by WHERE title EQL " black " <END>
+SELECT written by WHERE title EQL " solo " <END>
+SELECT original air date WHERE no . in season EQL 9 <END>
+SELECT title WHERE written by EQL denis leary , peter tolan and evan reilly <END>
+SELECT count ( directed by ) WHERE title EQL " voicemail " <END>
+SELECT dates active WHERE name EQL kamba <END>
+SELECT pressure WHERE deaths EQL 95km/h ( 60mph ) <END>
+SELECT dates active WHERE deaths EQL 185km/h ( 115mph ) <END>
+SELECT damage ( usd ) WHERE pressure EQL 1003hpa ( 29.62 inhg ) <END>
+SELECT average WHERE high score EQL 120 <END>
+SELECT player WHERE 50 EQL 2 AND n/o EQL 0 <END>
+SELECT player WHERE inns EQL 21 <END>
+SELECT general election WHERE result EQL pq majority AND % of popular vote EQL 44.75 % <END>
+SELECT min ( # of candidates ) WHERE # of seats won EQL 80 <END>
+SELECT count ( # of seats won ) WHERE # of candidates EQL 125 <END>
+SELECT max ( week ) <END>
+SELECT count ( attendance ) WHERE opponent EQL indianapolis colts <END>
+SELECT record WHERE date EQL december 16 , 1985 <END>
+SELECT count ( result ) WHERE record EQL 0-4 <END>
+SELECT count ( week ) WHERE date EQL october 11 , 1969 <END>
+SELECT count ( week ) WHERE date EQL november 9 , 1969 <END>
+SELECT count ( record ) WHERE stadium EQL war memorial stadium <END>
+SELECT min ( attendance ) WHERE date EQL december 7 , 1969 <END>
+SELECT max ( week ) WHERE stadium EQL memorial stadium <END>
+SELECT stadium WHERE week EQL 5 <END>
+SELECT probability 1st player wins WHERE probability of a draw EQL 8.28 % AND 2nd players choice EQL b br <END>
+SELECT 2nd players choice WHERE 1st players choice EQL rb b <END>
+SELECT probability 2nd player wins WHERE 2nd players choice EQL r rb AND probability 1st player wins EQL 5.18 % <END>
+SELECT probability 1st player wins WHERE probability 2nd player wins EQL 80.11 % AND 2nd players choice EQL r rb <END>
+SELECT probability 2nd player wins WHERE 1st players choice EQL bb r <END>
+SELECT probability 1st player wins WHERE probability 2nd player wins EQL 88.29 % AND 2nd players choice EQL r rb <END>
+SELECT nfl team WHERE player EQL thane gash <END>
+SELECT max ( pick # ) WHERE player EQL anthony blaylock <END>
+SELECT nfl team WHERE player EQL clifford charlton <END>
+SELECT position WHERE player EQL anthony blaylock <END>
+SELECT min ( pick # ) WHERE position EQL defensive tackle <END>
+SELECT province WHERE density EQL 971.4 <END>
+SELECT min ( gdp per cap . ( 2003 , in € ) ) WHERE province EQL friesland <END>
+SELECT max ( area ( km ² ) ) WHERE density EQL 331.4 <END>
+SELECT province WHERE gdp ( 2003 , pps in mil . € ) EQL 38355 <END>
+SELECT population ( 2004 estimate ) WHERE gdp ( 2003 , pps in mil . € ) EQL 18496 <END>
+SELECT title WHERE original air date EQL may15 ,2008 <END>
+SELECT max ( no . in season ) <END>
+SELECT directed by WHERE u.s. viewers ( million ) EQL 12.90 <END>
+SELECT min ( # of ep ) WHERE region 2 EQL may 26 , 2008 <END>
+SELECT region 2 WHERE dvd name EQL season six <END>
+SELECT min ( # of ep ) <END>
+SELECT dvd name WHERE region 2 EQL august 22 , 2010 <END>
+SELECT count ( points ) WHERE season EQL 2005 <END>
+SELECT points WHERE team name EQL dams <END>
+SELECT count ( position ) WHERE season EQL 2009 <END>
+SELECT min ( poles ) <END>
+SELECT series WHERE points EQL 62 <END>
+SELECT count ( points ) WHERE position EQL 10th <END>
+SELECT count ( report ) WHERE date EQL october 16 <END>
+SELECT report WHERE race name EQL long beach grand prix <END>
+SELECT report WHERE circuit EQL nazareth speedway <END>
+SELECT race name WHERE winning team EQL newman/haas racing AND pole position EQL rick mears <END>
+SELECT city/location WHERE circuit EQL meadowlands sports complex <END>
+SELECT literacy ( % ) WHERE growth ( 1991 – 2001 ) EQL 103.1 % <END>
+SELECT min ( sex ratio ( rural ) ) <END>
+SELECT min ( sex ratio ( child ) ) WHERE work participation ( % ) EQL 31.3 % <END>
+SELECT population % WHERE sex ratio ( rural ) EQL 953 <END>
+SELECT original air date WHERE title EQL " felonious monk " <END>
+SELECT title WHERE directed by EQL peter markle AND written by EQL jerry stahl <END>
+SELECT count ( directed by ) WHERE title EQL " identity crisis " <END>
+SELECT lap-by-lap WHERE year EQL 2011 <END>
+SELECT network WHERE lap-by-lap EQL marty reid AND host EQL marty reid <END>
+SELECT count ( pre-race analyst ) WHERE lap-by-lap EQL allen bestwick <END>
+SELECT max ( no . in season ) <END>
+SELECT original air date WHERE title EQL " lucky strike " <END>
+SELECT written by WHERE title EQL " one hit wonder " <END>
+SELECT original air date WHERE no . in series EQL 63 <END>
+SELECT count ( title ) WHERE u.s. viewers ( millions ) EQL 26.53 <END>
+SELECT u.s. viewers ( millions ) WHERE directed by EQL matt earl beesley <END>
+SELECT written by WHERE no . in series EQL 94 <END>
+SELECT no . in series WHERE no . in season EQL 10 <END>
+SELECT no . in season WHERE title EQL " crow 's feet " <END>
+SELECT original air date WHERE no . in series EQL 113 <END>
+SELECT count ( title ) WHERE no . in series EQL 113 <END>
+SELECT max ( no . in season ) WHERE written by EQL marlene meyer AND u.s. viewers ( millions ) EQL 20.49 <END>
+SELECT original air date WHERE no . in season EQL 23 <END>
+SELECT circuit WHERE date EQL october 4 <END>
+SELECT report WHERE pole position EQL michael andretti AND winning team EQL galles-kraco racing <END>
+SELECT count ( rnd ) WHERE race name EQL bosch spark plug grand prix <END>
+SELECT rnd WHERE date EQL august 9 <END>
+SELECT count ( date ) WHERE circuit EQL michigan international speedway <END>
+SELECT count ( # of bids ) WHERE conference EQL sun belt <END>
+SELECT round of 32 WHERE conference EQL conference usa <END>
+SELECT record WHERE round of 32 EQL 0 AND conference EQL metro atlantic <END>
+SELECT count ( # of bids ) WHERE elite eight GT 1.0 <END>
+SELECT directed by WHERE production code EQL 7aff03 <END>
+SELECT title WHERE u.s. viewers ( millions ) EQL 10.34 <END>
+SELECT position WHERE races EQL 6 <END>
+SELECT points WHERE series EQL british formula three AND team name EQL fortec motorsport <END>
+SELECT races WHERE season EQL 2009 AND wins EQL 0 <END>
+SELECT season WHERE team name EQL art grand prix <END>
+SELECT season WHERE points EQL 9 <END>
+SELECT max ( wins ) WHERE series EQL japanese formula three <END>
+SELECT test-taker WHERE # EQL 4 <END>
+SELECT min ( # ) WHERE air date EQL 18 april 2007 <END>
+SELECT test-taker WHERE challenge EQL night driving <END>
+SELECT count ( director ) WHERE film title used in nomination EQL course completed <END>
+SELECT director WHERE original title EQL el nido <END>
+SELECT director WHERE original title EQL dulcinea <END>
+SELECT village ( slovenian ) WHERE percent of slovenes 1951 EQL 65.9 % <END>
+SELECT village ( slovenian ) WHERE percent of slovenes 1991 EQL 16.7 % <END>
+SELECT count ( village ( german ) ) WHERE percent of slovenes 1991 EQL 21.7 % <END>
+SELECT percent of slovenes 1991 WHERE village ( slovenian ) EQL čahorče <END>
+SELECT village ( slovenian ) WHERE village ( german ) EQL st.margarethen <END>
+SELECT high points WHERE date EQL december 20 <END>
+SELECT high points WHERE date EQL december 23 <END>
+SELECT pick # WHERE position EQL de <END>
+SELECT player WHERE college EQL saint mary 's <END>
+SELECT position WHERE cfl team EQL winnipeg blue bombers <END>
+SELECT player WHERE college EQL laval <END>
+SELECT college WHERE cfl team EQL edmonton eskimos ( via calgary ) <END>
+SELECT cfl team WHERE college EQL st. francis xavier <END>
+SELECT player WHERE cfl team EQL montreal alouettes <END>
+SELECT min ( pick # ) WHERE cfl team EQL toronto argonauts <END>
+SELECT pick # WHERE position EQL cb <END>
+SELECT max ( pick # ) WHERE college EQL new mexico <END>
+SELECT player WHERE college EQL ohio state <END>
+SELECT min ( introduced ) WHERE region EQL departmental <END>
+SELECT min ( introduced ) <END>
+SELECT cfl team WHERE position EQL ol <END>
+SELECT college WHERE cfl team EQL saskatchewan roughriders <END>
+SELECT position WHERE cfl team EQL hamilton tiger-cats ( via ottawa ) <END>
+SELECT min ( pick # ) <END>
+SELECT max ( no . in season ) WHERE production code EQL e4423 <END>
+SELECT max ( no . in season ) WHERE u.s. viewers ( millions ) EQL 14.37 <END>
+SELECT directed by WHERE title EQL " escape " <END>
+SELECT count ( season ) WHERE season finale EQL may 26 , 2010 <END>
+SELECT episodes WHERE season premiere EQL september 23 , 2009 <END>
+SELECT season finale WHERE season EQL 4 <END>
+SELECT season premiere WHERE rank EQL # 21 <END>
+SELECT tv season WHERE season premiere EQL september 26 , 2007 <END>
+SELECT max processors WHERE max memory EQL 256 gb <END>
+SELECT max memory WHERE model EQL t5120 <END>
+SELECT min ( ru ) <END>
+SELECT ga date WHERE processor frequency EQL 1.0 , 1.2 , 1.4 ghz <END>
+SELECT ga date WHERE model EQL t5120 <END>
+SELECT sport WHERE league EQL la liga <END>
+SELECT min ( total attendance ) WHERE sport EQL association football AND league EQL premier league <END>
+SELECT min ( average attendance ) WHERE season EQL 2013 <END>
+SELECT count ( total attendance ) WHERE season EQL 2010 <END>
+SELECT director WHERE film title used in nomination EQL young törless <END>
+SELECT original title WHERE film title used in nomination EQL a woman in flames <END>
+SELECT year [ e ] ( ceremony ) WHERE film title used in nomination EQL the enigma of kaspar hauser <END>
+SELECT director WHERE original title EQL o.k. <END>
+SELECT division WHERE playoffs EQL division semifinals <END>
+SELECT no . in series WHERE title EQL " say uncle " <END>
+SELECT title WHERE written by EQL david mamet <END>
+SELECT finale WHERE chinese title EQL 潮爆大狀 <END>
+SELECT finale WHERE chinese title EQL 潮爆大狀 <END>
+SELECT hk viewers WHERE premiere EQL 34 <END>
+SELECT count ( peak ) WHERE chinese title EQL 潮爆大狀 <END>
+SELECT director WHERE production code EQL 2393059 <END>
+SELECT count ( writer ( s ) ) WHERE title EQL " michael 's game " <END>
+SELECT original air date WHERE title EQL " duet for one " <END>
+SELECT title WHERE u.s. viewers ( millions ) EQL 16.38 <END>
+SELECT production code WHERE written by EQL josé molina AND original air date EQL october 12 , 2004 <END>
+SELECT original air date WHERE title EQL " quarry " <END>
+SELECT title WHERE directed by EQL jean de segonzac <END>
+SELECT original air date WHERE production code EQL 2394087 <END>
+SELECT writer ( s ) WHERE title EQL " boxing sydney " <END>
+SELECT production code WHERE title EQL " all about brooke " <END>
+SELECT writer ( s ) WHERE production code EQL 2394084 <END>
+SELECT count ( title ) WHERE production code EQL 2395113a <END>
+SELECT max ( no . in series ) WHERE title EQL " melrose unglued " <END>
+SELECT writer ( s ) WHERE production code EQL 2395114 <END>
+SELECT director WHERE title EQL " full metal betsy " <END>
+SELECT no . in season WHERE production code EQL 2395118 <END>
+SELECT writer ( s ) WHERE production code EQL 2395096 <END>
+SELECT detectable by : WHERE radial velocity ( m/s ) EQL 0.089 <END>
+SELECT orbital period WHERE semimajor axis ( au ) EQL 5.20 <END>
+SELECT detectable by : WHERE planet EQL jupiter <END>
+SELECT planet WHERE orbital period EQL 11.86 years <END>
+SELECT director WHERE production code EQL 2398204 <END>
+SELECT original air date WHERE title EQL " unpleasantville " <END>
+SELECT pick # WHERE player EQL alexis bwenge <END>
+SELECT player WHERE pick # EQL 2 <END>
+SELECT player WHERE college EQL saskatchewan <END>
+SELECT min ( pick # ) WHERE college EQL mcmaster <END>
+SELECT min ( no . in season ) <END>
+SELECT original air date WHERE title EQL " the doctor is in ... deep " <END>
+SELECT count ( no . in series ) WHERE title EQL " coop de grace " <END>
+SELECT max ( no . in season ) WHERE director EQL chip chalmers AND production code EQL 2397162 <END>
+SELECT player name WHERE college EQL michigan state <END>
+SELECT player name WHERE college EQL oklahoma <END>
+SELECT position WHERE player name EQL colt brennan <END>
+SELECT height WHERE weight EQL 320 <END>
+SELECT count ( college ) WHERE position EQL db <END>
+SELECT max ( pick # ) WHERE cfl team EQL calgary stampeders <END>
+SELECT count ( cfl team ) WHERE college EQL york <END>
+SELECT cfl team WHERE college EQL simon fraser <END>
+SELECT player WHERE pick # EQL 27 <END>
+SELECT count ( pick # ) WHERE player EQL brett ralph <END>
+SELECT college WHERE player EQL lenard semajuste <END>
+SELECT max ( pick # ) WHERE cfl team EQL saskatchewan roughriders <END>
+SELECT count ( pick # ) WHERE position EQL fb <END>
+SELECT count ( player ) WHERE college EQL adams state <END>
+SELECT cfl team WHERE college EQL northwood <END>
+SELECT college WHERE player EQL craig zimmer <END>
+SELECT pick # WHERE college EQL regina <END>
+SELECT player WHERE position EQL lb AND cfl team EQL saskatchewan roughriders <END>
+SELECT cfl team WHERE position EQL ol <END>
+SELECT count ( position ) WHERE pick # EQL 43 <END>
+SELECT cfl team WHERE player EQL ryan folk <END>
+SELECT release date WHERE reference EQL kids-270 <END>
+SELECT japanese title WHERE romaji title EQL da.i.su.ki <END>
+SELECT japanese title WHERE reference EQL kids-430 <END>
+SELECT reference WHERE romaji title EQL heartbreak sniper <END>
+SELECT count ( oricon ) WHERE japanese title EQL 愛のバカ <END>
+SELECT count ( romaji title ) WHERE japanese title EQL mi-chemin <END>
+SELECT partial thromboplastin time WHERE condition EQL factor x deficiency as seen in amyloid purpura <END>
+SELECT count ( condition ) WHERE prothrombin time EQL unaffected AND bleeding time EQL prolonged <END>
+SELECT bleeding time WHERE condition EQL factor x deficiency as seen in amyloid purpura <END>
+SELECT condition WHERE partial thromboplastin time EQL prolonged AND bleeding time EQL prolonged <END>
+SELECT bleeding time WHERE condition EQL factor xii deficiency <END>
+SELECT bleeding time WHERE partial thromboplastin time EQL unaffected AND platelet count EQL unaffected <END>
+SELECT tuesday WHERE location EQL millhopper <END>
+SELECT wednesday WHERE monday EQL 10:00 -8:00 <END>
+SELECT thursday WHERE location EQL hawthorne <END>
+SELECT saturday WHERE wednesday EQL 10:00 -5:00 <END>
+SELECT thursday WHERE sunday EQL 1:00 -5:00 AND tuesday EQL 1:00 -7:00 <END>
+SELECT monday WHERE tuesday EQL 9:00 -6:00 <END>
+SELECT report WHERE fastest lap EQL paul tracy <END>
+SELECT fastest lap WHERE race name EQL tenneco automotive grand prix of detroit <END>
+SELECT fastest lap WHERE winning driver EQL max papis <END>
+SELECT count ( winning driver ) WHERE rnd EQL 6 <END>
+SELECT original name WHERE population at 2010 census EQL 210450 <END>
+SELECT original name WHERE english name EQL south bogor <END>
+SELECT min ( population at 2010 census ) WHERE english name EQL west bogor <END>
+SELECT count ( english name ) WHERE area in km ² EQL 17.72 <END>
+SELECT area in km ² WHERE original name EQL kecamatan bogor timur <END>
+SELECT count ( colour ) WHERE registration no . EQL mg-509 <END>
+SELECT title WHERE directed by EQL mark tinker <END>
+SELECT min ( no . in season ) WHERE directed by EQL jeff melman <END>
+SELECT count ( no . in series ) WHERE u.s. viewers ( millions ) EQL 16.03 <END>
+SELECT count ( interregnum ended ) WHERE duration EQL 3 months , 6 days <END>
+SELECT directed by WHERE episode # EQL 8 <END>
+SELECT directed by WHERE title EQL " tell-tale heart " <END>
+SELECT original air date WHERE series # EQL 36 <END>
+SELECT written by WHERE series # EQL 38 <END>
+SELECT count ( % ) WHERE manhattan EQL 45,901 <END>
+SELECT 1973 democratic initial primary WHERE queens EQL 19 % <END>
+SELECT manhattan WHERE richmond [ staten is . ] EQL 35 % <END>
+SELECT queens WHERE richmond [ staten is . ] EQL 42 % <END>
+SELECT party WHERE brooklyn EQL 51.0 % <END>
+SELECT brooklyn WHERE queens EQL 16.8 % <END>
+SELECT min ( total ) <END>
+SELECT % WHERE total EQL 249887 AND queens EQL 6.8 % <END>
+SELECT team WHERE division EQL central AND location EQL livonia <END>
+SELECT team WHERE location EQL highland township <END>
+SELECT conference WHERE team EQL churchill chargers <END>
+SELECT title WHERE written by EQL ken lazebnik <END>
+SELECT directed by WHERE u.s. viewers ( million ) EQL 2.81 <END>
+SELECT title WHERE u.s. viewers ( million ) EQL 3.02 <END>
+SELECT original air date WHERE title EQL " winds of war " <END>
+SELECT directed by WHERE u.s. viewers ( million ) EQL 2.61 <END>
+SELECT u.s. viewers ( million ) WHERE title EQL " brace for impact " <END>
+SELECT u.s. viewers ( million ) WHERE original air date EQL march 31 , 2013 <END>
+SELECT written by WHERE u.s. viewers ( million ) EQL 2.12 <END>
+SELECT original air date WHERE written by EQL rebecca dameron <END>
+SELECT min ( no . in series ) WHERE u.s. viewers ( million ) EQL 3.6 <END>
+SELECT written by WHERE original air date EQL april 17 , 2011 <END>
+SELECT count ( original air date ) WHERE no . in series EQL 79 <END>
+SELECT u.s. viewers ( million ) WHERE title EQL " line of departure " <END>
+SELECT mls cup winner WHERE mls cup runner-up EQL colorado rapids <END>
+SELECT mls cup winner WHERE mls supporters shield runner-up EQL chivas usa <END>
+SELECT mls cup runner-up WHERE mls cup winner EQL real salt lake <END>
+SELECT mls cup runner-up WHERE season EQL 2000 <END>
+SELECT max ( league apps ( sub ) ) <END>
+SELECT max ( league apps ( sub ) ) WHERE total goals EQL 11 <END>
+SELECT audition city WHERE callback venue EQL charleston area convention center <END>
+SELECT episode air date WHERE callback venue EQL rancho bernardo inn <END>
+SELECT owned since WHERE city of license/market EQL albuquerque <END>
+SELECT channel tv ( dt ) WHERE year of affiliation EQL 2002 <END>
+SELECT city of license/market WHERE station EQL ktfk-dt <END>
+SELECT engine WHERE performance EQL 0 – 100km/h : 10.5 s , vmax km/h ( mph ) <END>
+SELECT turbo WHERE trim EQL 2.0 20v <END>
+SELECT torque WHERE performance EQL 0 – 100km/h : 7.5 s auto , vmax : km/h ( mph ) <END>
+SELECT transmission WHERE turbo EQL yes ( mitsubishi td04-16t ) <END>
+SELECT fuel delivery WHERE power EQL hp ( kw ) @ 6500 rpm <END>
+SELECT engine WHERE turbo EQL yes ( mitsubishi td04-15g ) <END>
+SELECT english title WHERE finale EQL 33 AND peak EQL 42 <END>
+SELECT english title WHERE premiere LT 30.0 AND finale GT 36.0 <END>
+SELECT rank WHERE chinese title EQL 緣來自有機 <END>
+SELECT hk viewers WHERE chinese title EQL 十兄弟 <END>
+SELECT weekly rank WHERE air date EQL november 12 , 2007 <END>
+SELECT air date WHERE episode EQL " blowback " <END>
+SELECT min ( weekly rank ) WHERE air date EQL november 26 , 2007 <END>
+SELECT episode WHERE 18 – 49 ( rating/share ) EQL 3.5 / 9 <END>
+SELECT viewers ( m ) WHERE rating EQL 5.3 <END>
+SELECT 18 – 49 ( rating/share ) WHERE viewers ( m ) EQL 5.61 <END>
+SELECT highest WHERE stadium EQL balmoor <END>
+SELECT count ( capacity ) WHERE stadium EQL somerset park <END>
+SELECT min ( capacity ) WHERE team EQL airdrie united <END>
+SELECT stadium WHERE team EQL alloa athletic <END>
+SELECT min ( highest ) WHERE team EQL ayr united <END>
+SELECT min ( average ) <END>
+SELECT date of appointment WHERE team EQL galway <END>
+SELECT date of vacancy WHERE outgoing manager EQL damien fox <END>
+SELECT date of vacancy WHERE replaced by EQL davy fitzgerald <END>
+SELECT team WHERE outgoing manager EQL john meyler <END>
+SELECT count ( 1 credit ) WHERE 3 credits EQL 180 <END>
+SELECT hand WHERE 4 credits EQL 1600 <END>
+SELECT count ( 3 credits ) WHERE 5 credits EQL 5 <END>
+SELECT count ( 4 credits ) WHERE hand EQL two pair <END>
+SELECT duration WHERE actor EQL christian de la fuente <END>
+SELECT final episode WHERE position EQL dea agent <END>
+SELECT date of vacancy WHERE team EQL greenock morton <END>
+SELECT date of appointment WHERE outgoing manager EQL colin hendry <END>
+SELECT team WHERE outgoing manager EQL jim mcinally <END>
+SELECT date of vacancy WHERE replaced by EQL john brown <END>
+SELECT manner of departure WHERE date of appointment EQL 13 march 2008 <END>
+SELECT date of appointment WHERE outgoing manager EQL campbell money <END>
+SELECT min ( lowest ) WHERE stadium EQL east end park <END>
+SELECT team WHERE stadium EQL palmerston park <END>
+SELECT min ( lowest ) WHERE stadium EQL cappielow <END>
+SELECT max ( highest ) WHERE team EQL st. johnstone <END>
+SELECT min ( highest ) WHERE team EQL hamilton academical <END>
+SELECT champion WHERE semi-finalist # 2 EQL na AND location EQL morrisville , nc <END>
+SELECT score WHERE year EQL 2007 <END>
+SELECT count ( semi-finalist # 2 ) WHERE runner-up EQL east carolina <END>
+SELECT semi-finalist # 1 WHERE runner-up EQL elon university <END>
+SELECT runner-up WHERE year EQL 2004 AND champion EQL north carolina state <END>
+SELECT runner-up WHERE location EQL ellenton , fl AND year EQL 2004 <END>
+SELECT naturalisation by marriage WHERE numer of jamaicans granted british citizenship EQL 3165 <END>
+SELECT count ( numer of jamaicans granted british citizenship ) WHERE naturalisation by marriage EQL 1060 <END>
+SELECT naturalisation by marriage WHERE registration of a minor child EQL 114 <END>
+SELECT numer of jamaicans granted british citizenship WHERE naturalisation by residence EQL 927 <END>
+SELECT max ( year ) WHERE registration of a minor child EQL 281 <END>
+SELECT count ( episode titles ) WHERE first air date EQL march 6 , 2008 <END>
+SELECT finish WHERE first air date EQL march 6 , 2008 <END>
+SELECT u.s. viewers ( millions ) WHERE no . in season EQL 15 <END>
+SELECT u.s. viewers ( millions ) WHERE title EQL " throwing heat " <END>
+SELECT u.s. viewers ( millions ) WHERE directed by EQL anthony hemingway <END>
+SELECT title WHERE catalog number EQL 80809 <END>
+SELECT count ( format ) WHERE title EQL beginning callanetics <END>
+SELECT studio WHERE catalog number EQL 81258 <END>
+SELECT copyright information WHERE title EQL am/pm callanetics <END>
+SELECT count ( gf attendance ) WHERE location EQL sydney football stadium , sydney ( 6 ) <END>
+SELECT losingteam WHERE score EQL 24-12 <END>
+SELECT losingteam WHERE season EQL 1993 <END>
+SELECT compression ratio WHERE engine EQL wasp jr. t1b2 <END>
+SELECT compression ratio WHERE power , continuous EQL hp ( kw ) at 2,200 rpm AND octane rating EQL 80/87 <END>
+SELECT count ( compression ratio ) WHERE power , continuous EQL hp ( kw ) at 2,200 rpm AND critical altitude this is the highest altitude at which the engine can achieve its full continuous power rating . above this altitude , power falls off with height as with a naturally aspirated engine . see supercharger #altitude effects for details . EQL sea level <END>
+SELECT count ( power , takeoff ) WHERE engine EQL wasp jr. t1b2 <END>
+SELECT compression ratio WHERE critical altitude this is the highest altitude at which the engine can achieve its full continuous power rating . above this altitude , power falls off with height as with a naturally aspirated engine . see supercharger #altitude effects for details . EQL sea level AND supercharger gear ratio EQL 7:1 <END>
+SELECT count ( episode ) WHERE air date EQL october 27 , 2008 <END>
+SELECT weekly rank for living WHERE episode EQL " chapter five : dressed to kill " <END>
+SELECT max ( # ) WHERE air date EQL september 29 , 2008 <END>
+SELECT count ( season ) WHERE winningteam EQL canterbury bulldogs ( 8 ) <END>
+SELECT count ( losingteam ) WHERE location EQL sydney football stadium , sydney ( 11 ) <END>
+SELECT grand finaldate WHERE losingteam EQL st. george-illawarra dragons <END>
+SELECT winningteam WHERE clive churchill medal EQL brett kimmorley <END>
+SELECT time slot ( est ) WHERE rating EQL 6.3 <END>
+SELECT time slot ( est ) WHERE episode EQL " the way we were n't " <END>
+SELECT time slot ( est ) WHERE episode EQL " who 's your daddy " <END>
+SELECT air date WHERE share EQL 11 <END>
+SELECT air date WHERE 18-49 ( rating/share ) EQL 3.3 / 9 <END>
+SELECT character WHERE first appearance EQL " consequences " <END>
+SELECT last appearance WHERE relationship EQL late wife of mac taylor <END>
+SELECT portrayed by WHERE character EQL reed garrett <END>
+SELECT count ( portrayed by ) WHERE relationship EQL informant of don flack <END>
+SELECT last appearance WHERE character EQL rikki sandoval <END>
+SELECT last appearance WHERE portrayed by EQL sela ward <END>
+SELECT portrayed by WHERE first appearance EQL " zoo york " <END>
+SELECT episodes WHERE portrayed by EQL vanessa ferlito <END>
+SELECT portrayed by WHERE first appearance EQL " blink " 1 , 2 , 3 <END>
+SELECT count ( duration ) WHERE portrayed by EQL robert joy <END>
+SELECT last appearance WHERE portrayed by EQL a. j. buckley <END>
+SELECT min ( top division titles ) <END>
+SELECT min ( number of seasons in top division ) <END>
+SELECT count ( viewers ( millions ) ) WHERE rank ( week ) EQL 20 <END>
+SELECT rank ( timeslot ) WHERE episode EQL " dangerous liaisons " <END>
+SELECT min ( rank ( night ) ) WHERE viewers ( millions ) EQL 5.25 <END>
+SELECT count ( # ) WHERE episode EQL " conference call " <END>
+SELECT count ( viewers ( millions ) ) WHERE rank ( night ) EQL 11 <END>
+SELECT carbon dioxide emissions per year ( 10 6 tons ) ( 2006 ) WHERE carbon dioxide emissions per year ( tons per person ) ( 2007 ) EQL 1.4 <END>
+SELECT max ( carbon dioxide emissions per year ( 10 6 tons ) ( 2006 ) ) WHERE country EQL russia <END>
+SELECT percentage of global total WHERE country EQL india <END>
+SELECT percentage of global total WHERE carbon dioxide emissions per year ( tons per person ) ( 2007 ) EQL 4.9 <END>
+SELECT max ( avg . emission per km 2 of its land ( tons ) ) WHERE country EQL india <END>
+SELECT rank ( # ) WHERE air date EQL october 26 , 2007 <END>
+SELECT count ( rank ( # ) ) WHERE viewers ( m ) EQL 5.96 <END>
+SELECT viewers ( m ) WHERE air date EQL november 9 , 2007 <END>
+SELECT max ( points awarded ( platinum ) ) WHERE points awarded ( gold ) EQL 6 <END>
+SELECT finishing position WHERE points awarded ( platinum ) EQL 15 <END>
+SELECT max ( points awarded ( platinum ) ) WHERE finishing position EQL 5th <END>
+SELECT points awarded ( platinum ) WHERE points awarded ( silver ) EQL 70 <END>
+SELECT points awarded ( platinum ) WHERE points awarded ( gold ) EQL 9 <END>
+SELECT rank ( # ) WHERE viewers ( m ) EQL 2.65 <END>
+SELECT min ( share ) WHERE rank ( # ) EQL 85 <END>
+SELECT timeslot WHERE no . EQL 15 <END>
+SELECT timeslot WHERE air date EQL may 12 , 2009 <END>
+SELECT 18 – 49 ( rating/share ) WHERE air date EQL may 5 , 2009 <END>
+SELECT count ( air date ) WHERE viewers ( m ) EQL 1.82 <END>
+SELECT rating WHERE air date EQL may 5 , 2009 <END>
+SELECT episode WHERE viewers ( m ) EQL 2.05 <END>
+SELECT extroverted , relationship-oriented WHERE extroverted , task-oriented EQL director <END>
+SELECT extroverted , relationship-oriented WHERE moderate EQL introverted sanguine <END>
+SELECT founder WHERE moderate EQL ether <END>
+SELECT extroverted , relationship-oriented WHERE date EQL c. 1928 <END>
+SELECT founder WHERE date EQL c. 1900 <END>
+SELECT people-task orientation scale WHERE extroverted , relationship-oriented EQL team type <END>
+SELECT batting team WHERE runs EQL 276 <END>
+SELECT batting team WHERE fielding team EQL durham <END>
+SELECT batting team WHERE batting partners EQL thilina kandamby and rangana herath <END>
+SELECT fielding team WHERE runs EQL 155 <END>
+SELECT batting partners WHERE runs EQL 226 <END>
+SELECT nationality WHERE player EQL david bairstow <END>
+SELECT player WHERE rank EQL 2 <END>
+SELECT stumpings WHERE player EQL paul nixon <END>
+SELECT nationality WHERE player EQL adam gilchrist <END>
+SELECT title WHERE u.s. viewers ( million ) EQL 19.48 <END>
+SELECT title WHERE u.s. viewers ( million ) EQL 18.73 <END>
+SELECT written by WHERE u.s. viewers ( million ) EQL 18.73 <END>
+SELECT rank ( wjc ) WHERE metro area EQL los angeles <END>
+SELECT count ( number of jews ( wjc ) ) WHERE rank ( arda ) EQL 1 <END>
+SELECT number of jews ( asarb ) WHERE metro area EQL philadelphia <END>
+SELECT open 1st viii WHERE u15 6th iv EQL bgs <END>
+SELECT u16 2nd viii WHERE u15 3rd iv EQL bbc <END>
+SELECT open 1st viii WHERE u15 4th iv EQL gt <END>
+SELECT count ( crew ) WHERE u15 3rd iv EQL bgs AND u15 1st iv EQL acgs AND open 1st viii EQL acgs <END>
+SELECT u15 3rd iv WHERE u15 4th iv EQL bbc <END>
+SELECT count ( open 2nd viii ) WHERE u15 3rd iv EQL gt <END>
+SELECT count ( founded ) WHERE enrolment EQL 850 <END>
+SELECT location WHERE school EQL brisbane girls ' grammar school <END>
+SELECT count ( school ) WHERE location EQL south brisbane <END>
+SELECT min ( founded ) WHERE abbreviation EQL splc <END>
+SELECT count ( enrolment ) WHERE in competition since EQL 1990 AND abbreviation EQL stm <END>
+SELECT rd . WHERE grand prix EQL monaco grand prix <END>
+SELECT pole position WHERE grand prix EQL french grand prix <END>
+SELECT rd . WHERE fastest lap EQL michael schumacher AND constructor EQL ferrari AND pole position EQL michael schumacher <END>
+SELECT count ( rd. ) WHERE grand prix EQL austrian grand prix <END>
+SELECT rd . WHERE grand prix EQL canadian grand prix <END>
+SELECT rd . WHERE grand prix EQL canadian grand prix <END>
+SELECT fastest lap WHERE grand prix EQL european grand prix <END>
+SELECT pole position WHERE constructor EQL ferrari AND grand prix EQL austrian grand prix <END>
+SELECT outcome WHERE round EQL 2r <END>
+SELECT against WHERE opponent EQL tina pisnik <END>
+SELECT count ( result ) WHERE round EQL 2r <END>
+SELECT outcome WHERE round EQL 2r <END>
+SELECT night rank WHERE viewers ( m ) EQL 6.63 <END>
+SELECT overall rank WHERE viewers ( m ) EQL 7.44 <END>
+SELECT count ( overall rank ) WHERE rating/share 18 – 49 EQL 2.1 / 5 <END>
+SELECT night rank WHERE rating EQL 6.2 <END>
+SELECT viewers ( m ) WHERE episode EQL " legacy " <END>
+SELECT count ( group b winner ) WHERE group c winner EQL francavilla <END>
+SELECT group a winner WHERE group b winner EQL modena <END>
+SELECT group a winner WHERE group c winner EQL vis pesaro <END>
+SELECT group a winner WHERE group d winner EQL nocerina <END>
+SELECT group d winner WHERE group b winner EQL modena <END>
+SELECT fastest lap WHERE grand prix EQL brazilian grand prix <END>
+SELECT pole position WHERE grand prix EQL monaco grand prix <END>
+SELECT winning driver WHERE fastest lap EQL michael schumacher AND pole position EQL michael schumacher <END>
+SELECT location WHERE date EQL 5 april <END>
+SELECT pole position WHERE date EQL 26 july <END>
+SELECT winning constructor WHERE fastest lap EQL riccardo patrese AND location EQL interlagos <END>
+SELECT report WHERE winning constructor EQL williams - renault AND grand prix EQL south african grand prix <END>
+SELECT min ( round ) WHERE grand prix EQL german grand prix <END>
+SELECT count ( date ) WHERE grand prix EQL portuguese grand prix <END>
+SELECT count ( pole position ) WHERE round EQL 15 <END>
+SELECT date WHERE location EQL circuit gilles villeneuve <END>
+SELECT location WHERE fastest lap EQL thierry boutsen <END>
+SELECT pole position WHERE grand prix EQL german grand prix <END>
+SELECT min ( rd. ) WHERE date EQL 22 october <END>
+SELECT winning driver WHERE date EQL 13 august <END>
+SELECT fastest lap WHERE grand prix EQL mexican grand prix <END>
+SELECT min ( rd. ) WHERE location EQL hockenheimring <END>
+SELECT count ( fastest lap ) WHERE location EQL silverstone <END>
+SELECT android WHERE windows EQL 1.15 % <END>
+SELECT date WHERE bada EQL 0.05 % <END>
+SELECT windows WHERE other EQL 0.7 % <END>
+SELECT other WHERE symbian / series 40 EQL 0.40 % <END>
+SELECT source WHERE blackberry EQL 2.9 % <END>
+SELECT english name WHERE abbreviation EQL mtc <END>
+SELECT japanese orthography WHERE english name EQL national farmers academy <END>
+SELECT abbreviation WHERE pronouciation EQL kōkū daigakkō <END>
+SELECT count ( provider ( iai ) ) WHERE foundation EQL 1964 <END>
+SELECT japanese orthography WHERE english name EQL national fisheries university <END>
+SELECT min ( half marathon ( womens ) ) <END>
+SELECT count ( half marathon ( mens ) ) WHERE country EQL kazakhstan <END>
+SELECT count ( country ) WHERE half marathon ( womens ) GT 1.0 <END>
+SELECT count ( half marathon ( womens ) ) WHERE country EQL moldova <END>
+SELECT country WHERE half marathon ( womens ) GT 1.0 <END>
+SELECT constructor WHERE grand prix EQL brazilian grand prix <END>
+SELECT fastest lap WHERE rd . EQL 8 <END>
+SELECT date WHERE location EQL jerez <END>
+SELECT grand prix WHERE location EQL detroit <END>
+SELECT count ( grand prix ) WHERE constructor EQL mclaren - honda AND fastest lap EQL nigel mansell <END>
+SELECT date WHERE grand prix EQL french grand prix <END>
+SELECT winners WHERE season result EQL 7th <END>
+SELECT winners WHERE season result EQL 9th <END>
+SELECT grand finalist WHERE winners EQL collingwood <END>
+SELECT season result WHERE margin EQL 51 <END>
+SELECT grand finalist WHERE scores EQL 11.11 ( 77 ) – 10.8 ( 68 ) <END>
+SELECT grand finalist WHERE scores EQL 8.9 ( 57 ) – 7.12 ( 54 ) <END>
+SELECT max ( crowd ) WHERE scores EQL 10.12 ( 72 ) – 8.11 ( 59 ) <END>
+SELECT venue WHERE scores EQL 15.13 ( 103 ) – 8.4 ( 52 ) <END>
+SELECT venue WHERE margin EQL 4 <END>
+SELECT crowd WHERE grand finalist EQL south melbourne <END>
+SELECT date WHERE race EQL monaco grand prix <END>
+SELECT date WHERE pole position EQL alain prost <END>
+SELECT race winner WHERE race EQL portuguese grand prix <END>
+SELECT race winner WHERE date EQL 12 june <END>
+SELECT constructor WHERE location EQL hockenheimring <END>
+SELECT race winner WHERE location EQL jacarepaguá <END>
+SELECT count ( race winner ) WHERE rnd EQL 10 <END>
+SELECT pole position WHERE location EQL hockenheimring <END>
+SELECT report WHERE rnd EQL 4 <END>
+SELECT venue WHERE premier EQL essendon AND attendance EQL 30824 <END>
+SELECT venue WHERE runner up EQL hawthorn <END>
+SELECT premiership WHERE runner up EQL geelong <END>
+SELECT runner up WHERE score EQL 9.12 ( 66 ) – 5.6 ( 36 ) <END>
+SELECT fastest lap WHERE pole position EQL patrick tambay <END>
+SELECT race WHERE pole position EQL nelson piquet AND location EQL nürburgring <END>
+SELECT count ( rnd ) WHERE fastest lap EQL patrick tambay <END>
+SELECT race WHERE location EQL kyalami <END>
+SELECT fastest lap WHERE pole position EQL gilles villeneuve <END>
+SELECT fastest lap WHERE race EQL dutch grand prix <END>
+SELECT fastest lap WHERE race winner EQL john watson <END>
+SELECT constructor WHERE date EQL 9 may <END>
+SELECT pole position WHERE fastest lap EQL nelson piquet AND constructor EQL ferrari <END>
+SELECT report WHERE race EQL san marino grand prix <END>
+SELECT constructor WHERE location EQL monza <END>
+SELECT count ( race ) WHERE pole position EQL alain prost AND race winner EQL keke rosberg <END>
+SELECT report WHERE location EQL österreichring <END>
+SELECT report WHERE race EQL argentine grand prix <END>
+SELECT min ( rnd ) WHERE race EQL italian grand prix <END>
+SELECT count ( report ) WHERE date EQL 29 april <END>
+SELECT race winner WHERE constructor EQL renault <END>
+SELECT date WHERE rnd EQL 1 <END>
+SELECT count ( date ) WHERE race EQL monaco grand prix <END>
+SELECT count ( rnd ) WHERE pole position EQL james hunt AND fastest lap EQL john watson <END>
+SELECT count ( fastest lap ) WHERE location EQL dijon-prenois <END>
+SELECT constructor WHERE rnd EQL 15 <END>
+SELECT winning driver WHERE circuit EQL brands hatch <END>
+SELECT constructor WHERE race name EQL i italian republic grand prix <END>
+SELECT race name WHERE circuit EQL oulton park <END>
+SELECT report WHERE race name EQL i brazilian grand prix <END>
+SELECT race WHERE pole position EQL niki lauda AND date EQL 27 april <END>
+SELECT date WHERE constructor EQL ferrari AND location EQL anderstorp <END>
+SELECT count ( rnd ) WHERE pole position EQL niki lauda AND race EQL monaco grand prix <END>
+SELECT report WHERE location EQL kyalami <END>
+SELECT pole position WHERE rnd EQL 3 <END>
+SELECT race WHERE fastest lap EQL jean-pierre jarier <END>
+SELECT circuit WHERE winning driver EQL clay regazzoni <END>
+SELECT date WHERE winning driver EQL chris amon <END>
+SELECT circuit WHERE race name EQL vi rhein-pokalrennen <END>
+SELECT date WHERE # EQL 13 <END>
+SELECT date WHERE circuit EQL solitudering <END>
+SELECT count ( date ) WHERE circuit EQL silverstone <END>
+SELECT count ( constructor ) WHERE race name EQL xvi brdc international trophy <END>
+SELECT circuit WHERE race name EQL ii danish grand prix <END>
+SELECT constructor WHERE date EQL 26 march <END>
+SELECT count ( circuit ) WHERE date EQL 22 april <END>
+SELECT constructor WHERE circuit EQL zeltweg airfield <END>
+SELECT winning driver WHERE circuit EQL posillipo <END>
+SELECT circuit WHERE race name EQL xi syracuse grand prix <END>
+SELECT report WHERE circuit EQL pau <END>
+SELECT count ( report ) WHERE winning driver EQL juan manuel fangio <END>
+SELECT constructor WHERE circuit EQL syracuse <END>
+SELECT race name WHERE circuit EQL modena <END>
+SELECT race name WHERE circuit EQL monza <END>
+SELECT date WHERE race name EQL v madgwick cup <END>
+SELECT winning driver WHERE race name EQL xiv eläintarhanajot <END>
+SELECT winning driver WHERE circuit EQL modena <END>
+SELECT count ( constructor ) WHERE race name EQL iii redex trophy <END>
+SELECT report WHERE winning driver EQL mike hawthorn <END>
+SELECT race name WHERE circuit EQL bordeaux <END>
+SELECT report WHERE race name EQL v ulster trophy <END>
+SELECT constructor WHERE circuit EQL silverstone <END>
+SELECT report WHERE circuit EQL silverstone <END>
+SELECT report WHERE race name EQL xiii grand prix de l'albigeois <END>
+SELECT date WHERE race name EQL xii pau grand prix <END>
+SELECT winning driver WHERE circuit EQL goodwood <END>
+SELECT u.s. viewers ( millions ) WHERE written by EQL krystal houghton <END>
+SELECT count ( directed by ) WHERE no . in series EQL 79 <END>
+SELECT written by WHERE u.s. viewers ( millions ) EQL 19.01 <END>
+SELECT episode title WHERE director EQL rodman flender <END>
+SELECT original air date WHERE director EQL jamie babbit <END>
+SELECT original air date WHERE u.s. viewers ( millions ) EQL 12.81 <END>
+SELECT min ( series # ) WHERE writer ( s ) EQL shelia lawrence <END>
+SELECT director WHERE u.s. viewers ( millions ) EQL 13.66 <END>
+SELECT pct % WHERE won EQL 25 <END>
+SELECT won WHERE standing EQL 2nd oha AND games EQL 62 <END>
+SELECT liscumb WHERE gauthier EQL 34 <END>
+SELECT bello WHERE ben-tahir EQL 296 <END>
+SELECT ben-tahir WHERE bello EQL 51 <END>
+SELECT haydon WHERE larter EQL 11 AND libweshya EQL 4 <END>
+SELECT liscumb WHERE haydon EQL 1632 <END>
+SELECT doucet WHERE lawrance EQL 36 <END>
+SELECT tv WHERE date EQL december 7 , 1986 <END>
+SELECT kickoff [ a ] WHERE opponent EQL at new orleans saints <END>
+SELECT count ( house name ) WHERE colours EQL green <END>
+SELECT founded WHERE house name EQL gongola <END>
+SELECT house name WHERE colours EQL green <END>
+SELECT composition WHERE colours EQL green <END>
+SELECT composition WHERE house name EQL benue <END>
+SELECT count ( week ) WHERE record EQL 3-6 <END>
+SELECT tv WHERE opponent EQL minnesota vikings <END>
+SELECT count ( opponent ) WHERE attendance EQL 64,087 <END>
+SELECT game site WHERE record EQL 1-3 <END>
+SELECT count ( kickoff [ a ] ) WHERE date EQL september 4 , 1988 <END>
+SELECT count ( attendance ) WHERE record EQL 1-3 <END>
+SELECT count ( year ) WHERE runner-up EQL daniel zueras <END>
+SELECT count ( host ) WHERE fourth place EQL chenoa <END>
+SELECT count ( fourth place ) WHERE year EQL 2003 <END>
+SELECT engine type WHERE max . torque at rpm EQL n · m ( lbf · ft ) @ 4,800 <END>
+SELECT engine configuration & notes 0-100km / h WHERE engine type EQL b5244 t2 <END>
+SELECT engine displacement WHERE engine type EQL b5254 t <END>
+SELECT count ( engine type ) WHERE model EQL 2.4 awd <END>
+SELECT count ( engine displacement ) WHERE engine type EQL b5204 t3 <END>
+SELECT count ( model ) WHERE engine type EQL b5234 t3 <END>
+SELECT count ( power ( ps ) ) WHERE torque ( nm@rpm ) EQL 240@2200-5000 <END>
+SELECT comment WHERE model name EQL 2.4 ( 2001-2007 ) <END>
+SELECT model name WHERE engine code EQL b5204 t5 <END>
+SELECT displacement ( cm ³ ) WHERE torque ( nm@rpm ) EQL 350@1800-6000 <END>
+SELECT model name WHERE torque ( nm@rpm ) EQL 230@4500 <END>
+SELECT model name WHERE engine code EQL b5254 t4 <END>
+SELECT torque ( nm@rpm ) WHERE engine code EQL d5244 t5 <END>
+SELECT model name WHERE engine code EQL d5244 t <END>
+SELECT model name WHERE engine code EQL d5252 t <END>
+SELECT model name WHERE engine code EQL d5244 t7 <END>
+SELECT position WHERE no . EQL 47 <END>
+SELECT position WHERE nationality EQL turkey <END>
+SELECT player WHERE no . EQL 51 <END>
+SELECT position WHERE years for jazz EQL 1998-99 <END>
+SELECT count ( position ) WHERE school/club team EQL creighton <END>
+SELECT player WHERE years for jazz EQL 1974-75 AND school/club team EQL marshall <END>
+SELECT nationality WHERE school/club team EQL oregon <END>
+SELECT nationality WHERE player EQL jim les <END>
+SELECT max ( no . ) WHERE school/club team EQL minnesota <END>
+SELECT player WHERE years for jazz EQL 2000-02 <END>
+SELECT school/club team WHERE player EQL kirk snyder <END>
